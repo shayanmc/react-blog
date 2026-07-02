@@ -4,3 +4,8 @@
   font-size: x-large;
   font-weight: 700;
 }
+.articleWrapper {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 25px;
+}

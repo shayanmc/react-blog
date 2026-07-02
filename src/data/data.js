@@ -1,7 +1,7 @@
 const ArticleData = [
   {
     id: 1,
-    title: "sample1",
+    title: "title 1",
     content: `
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus reiciendis quo ipsam unde ullam, eos quidem? Eos repudiandae exercitationem a facilis, eveniet doloribus atque laborum.
 
@@ -16,7 +16,7 @@ const ArticleData = [
   },
   {
     id: 2,
-    title: "sample2",
+    title: "title 2",
     content: `
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus reiciendis quo ipsam unde ullam, eos quidem? Eos repudiandae exercitationem a facilis, eveniet doloribus atque laborum.
 
@@ -31,7 +31,7 @@ const ArticleData = [
   },
   {
     id: 3,
-    title: "sample3",
+    title: "title 3",
     content: `
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus reiciendis quo ipsam unde ullam, eos quidem? Eos repudiandae exercitationem a facilis, eveniet doloribus atque laborum.
 
@@ -46,7 +46,7 @@ const ArticleData = [
   },
   {
     id: 4,
-    title: "sample4",
+    title: "title 4",
     content: `
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus reiciendis quo ipsam unde ullam, eos quidem? Eos repudiandae exercitationem a facilis, eveniet doloribus atque laborum.
 
@@ -61,7 +61,7 @@ const ArticleData = [
   },
   {
     id: 5,
-    title: "sample5",
+    title: "title 5",
     content: `
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus reiciendis quo ipsam unde ullam, eos quidem? Eos repudiandae exercitationem a facilis, eveniet doloribus atque laborum.
 
@@ -76,7 +76,7 @@ const ArticleData = [
   },
   {
     id: 6,
-    title: "sample6",
+    title: "title 6",
     content: `
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus reiciendis quo ipsam unde ullam, eos quidem? Eos repudiandae exercitationem a facilis, eveniet doloribus atque laborum.
 
